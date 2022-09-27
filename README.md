@@ -1,0 +1,2 @@
+# loan-status-prediction-analysis
+A Python notebook analyzing the various different attributes of individuals' loans with data visualization (using Matplotlib and Seaborn). This project also utilizes various different methods of prediction (including Ridge Classification and Logistic Regression) to predict the loan statuses of individuals tracked in our dataset. Accuracy scores for our prediction results range from 0.88 to 0.90. 
